@@ -1,2 +1,2 @@
-# storage
+# Storage
 Random cheeseDOS assets
